@@ -48,19 +48,12 @@
 
 </td></tr></table>  
 
-<br/>  
-
-  
+<br/>
 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=mh-anwar&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
