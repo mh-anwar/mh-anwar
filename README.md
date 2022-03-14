@@ -34,9 +34,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
 </div>  
 
-<br/>  
-
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
