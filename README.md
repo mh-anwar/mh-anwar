@@ -20,9 +20,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-anwar&hide_border=true&layout=compact&theme=github_dark" align="left" style="width: 100%" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mh-anwar&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</td></tr></table>  
-
 <br/>
   
 ----
