@@ -1,16 +1,4 @@
-<h2 align="center">Hellow World</h2>
-
-<div align="center">
-  <a href="https://github.com/mh-anwar" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://stackoverflow.com/users/14272213" target="_blank">
-  <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-  </a>  
-</div>
-
-<br/>  
-
+<h2 align="center">Hellow World</h2> 
 <h2 align="center">Github Stats</h2>
 <table align="center">
   <tr>
