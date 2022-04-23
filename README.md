@@ -1,5 +1,4 @@
 <h2 align="center">Hellow World</h2> 
-<h2 align="center">Github Stats</h2>
 <table align="center">
   <tr>
     <td width="50%">
