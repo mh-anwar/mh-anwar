@@ -1,25 +1,11 @@
-<h2 align="center">Hellow World</h2> 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=mh-anwar&show_icons=true&count_private=true&hide_border=true&theme=github_dark" style="width: 100%" />
-    </td>
-    <td width="50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-anwar&hide_border=true&layout=compact&theme=github_dark" style="width: 100%" />
-  </td>
-</table>
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<h1 align="center">Hellow World 👋, I'm Mohammad Anwar</h1>
 
-<!--
+- 🔭 I’m currently working on [Symbar](https://mh-anwar/symbar) and [CopyThat](https://mh-anwar/CopyThat)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mh-anwar&show_icons=true&locale=en&hide_border=true&layout=compact&theme=github_dark" alt="mh-anwar" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-anwar&hide_border=true&layout=compact&theme=github_dark" />
+</p>
