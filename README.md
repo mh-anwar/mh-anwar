@@ -1,6 +1,6 @@
 <h1 align="center">Hellow World 👋, I'm Mohammad Anwar</h1>
 
-- 🔭 I’m currently working on [Symbar](https://mh-anwar/symbar) and [CopyThat](https://mh-anwar/CopyThat)
+- 🔭 I’m currently working on [Symbar](https://github.com/mh-anwar/symbar) and [CopyThat](https://github.com/mh-anwar/CopyThat)
 
 - 🌱 I’m currently learning **Python**
 
