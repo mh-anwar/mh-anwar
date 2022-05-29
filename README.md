@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Python**
 
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mh-anwar&show_icons=true&locale=en&hide_border=true&layout=compact&theme=github_dark" alt="mh-anwar" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-anwar&hide_border=true&layout=compact&theme=github_dark" />
+<p>
+  <img  src="https://github-readme-stats.vercel.app/api?username=mh-anwar&show_icons=true&hide_border=true&layout=compact&theme=github_dark" alt="mh-anwar" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-anwar&hide_border=true&layout=compact&theme=github_dark" />
 </p>
