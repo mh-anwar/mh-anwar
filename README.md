@@ -1,4 +1,4 @@
-<h1 align="center">Hellow World 👋, I'm Mohammad Anwar</h1>
+<h1 align="center">Hellow World, I'm Mohammad Anwar</h1>
 
 - 🔭 I’m working on [Symbar](https://github.com/mh-anwar/symbar) and [CopyThat](https://github.com/mh-anwar/CopyThat)
 
