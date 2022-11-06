@@ -9,8 +9,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mh-anwar&show_icons=true&count_private=true&hide_border=true&theme=github_dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mh-anwar&show_icons=true&count_private=true&hide_border=true&theme=github_dark">
- 
+  <img alt="mh-anwar Github Stats." src="https://github-readme-stats.vercel.app/api?username=mh-anwar&show_icons=true&count_private=true&hide_border=true&theme=github_dark">
 </picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-anwar&hide_border=true&layout=compact&theme=github_dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-anwar&hide_border=true&layout=compact&theme=default">
