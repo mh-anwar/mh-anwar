@@ -6,4 +6,4 @@
 
 - 🌱 I’m currently learning **Java** as well as **Next.js** and **React**
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mh-anwar&show_icons=true&count_private=true&hide_border=true&theme=transparent" height="170" />
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-anwar&hide_border=true&layout=compact&theme=github_dark" height="170" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-anwar&hide_border=true&layout=compact&theme=transparent" height="170" />
