@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Anwar</h1>
 <h3 align="center">A passionate fullstack developer from Canada</h3>
 
-- 🔭 Right now, I’m working on [FocusGuard](https://github.com/mh-anwar/FocusGuard)
+- 🔭 Right now, I’m working on [StayFocused](https://github.com/mh-anwar/FocusGuard)
 
 - 🌱 I’m currently learning and using **Langchain and Flask**
 
