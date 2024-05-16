@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohammad Anwar</h1>
 <h3 align="center">A passionate fullstack developer from Canada</h3>
 
-- 🔭 Right now, I’m working on [my personal terminal](https://mohammadanwar.dev)
+- 🔭 Right now, I’m working on [my personal terminal](https://anwar.app)
 
-- 🌱 I’m currently learning and using **Flask**
+- 🌱 I’m currently learning and using **NextJS**
 - 🔥 My current favorite tech stack is: **Next.js + MongoDB** 
 
-- 👨‍💻 All of my projects are available at [https://anwar.app](https://anwar.app)
+- 👨‍💻 All of my projects are available at [here](https://mohammadanwar.dev)
 
 
 </p>
