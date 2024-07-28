@@ -1,22 +1,28 @@
 <h1 align="center">Hi 👋, I'm Mohammad Anwar</h1>
-<h3 align="center">A passionate fullstack developer from Canada</h3>
+<h3 align="center">I'm studying Computer Science at UofT and building cool projects.</h3>
 
-- 🔭 Right now, I’m working on [my personal terminal](https://anwar.app)
+- 🔭 Right now, I’m working on [my personal terminal](https://anwar.app) and [dashboard](https://github.com/mh-anwar/dashboard)
 
-- 🌱 I’m currently learning and using **NextJS**
-- 🔥 My current favorite tech stack is: **Next.js + MongoDB** 
+- 🌱 I'm currently learning and using **OpenCV + YOLO**
+- 🔥 My current favorite tech stack is: **Next.js + MongoDB** and my favorite tool is **Selenium**
 
-- 👨‍💻 All of my projects are available at [here](https://mohammadanwar.dev)
-
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+- 👨‍💻 Some of my favourite projects are on [my website](https://mohammadanwar.dev) and hackathon projects on [Devpost](https://devpost.com/mh-anwar)
 
 
+<h3 align="center">Languages and Tools</h3>
+<div align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,mongodb,sqlite,nodejs,python,java,selenium,nginx,linux&theme=dark" alt="Skills and Tech" />
+</div>
+<br/>
+
+<!--
 | <img src="https://github-readme-stats.vercel.app/api?username=mh-anwar&show_icons=true&count_private=true&hide_border=true&theme=transparent" height="170" /> | <img src="https://streak-stats.demolab.com/?user=mh-anwar&&hide_border=true&layout=compact&theme=transparent" height="170" /> |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
+-->
 
-![](https://komarev.com/ghpvc/?username=mh-anwar&label=👀)
-
+<h3 align="center">Also Me</h3>
+<div align="center" >
+  <a href="https://www.linkedin.com/in/mh-anwar/ target="_blank"><img width="30" height="30" align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mohammadanwar.dev" target="_blank"><img width="30" height="30" align="center" src="https://mohammadanwar.dev/apple-icon.png" alt="My Website" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://devpost.com/mh-anwar" target="_blank"><img width="30" height="30" align="center" src="https://devpost.com/favicon.ico" alt="LinkedIn" /></a>
+</table>
