@@ -19,10 +19,3 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=mh-anwar&show_icons=true&count_private=true&hide_border=true&theme=transparent" height="170" /> | <img src="https://streak-stats.demolab.com/?user=mh-anwar&&hide_border=true&layout=compact&theme=transparent" height="170" /> |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
 -->
-
-<h3 align="center">Also Me</h3>
-<div align="center" >
-  <a href="https://www.linkedin.com/in/mh-anwar/ target="_blank"><img width="30" height="30" align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mohammadanwar.dev" target="_blank"><img width="30" height="30" align="center" src="https://mohammadanwar.dev/apple-icon.png" alt="My Website" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://devpost.com/mh-anwar" target="_blank"><img width="30" height="30" align="center" src="https://devpost.com/favicon.ico" alt="LinkedIn" /></a>
-</table>
