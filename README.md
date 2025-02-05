@@ -11,7 +11,10 @@
 
 <h3 align="center">Languages and Tools</h3>
 <div align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=c,r,html,css,js,react,nextjs,mongodb,sqlite,nodejs,python,java,nginx,linux&theme=dark" alt="Skills and Tech" />
+  <img align="center" src="https://skillicons.dev/icons?i=c,r,java,python&theme=dark" alt="Skills and Tech" />|
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" alt="Skills and Tech" />|
+  <img align="center" src="https://skillicons.dev/icons?i=mongodb,sqlite,nodejs&theme=dark" alt="Skills and Tech" />|
+  <img align="center" src="https://skillicons.dev/icons?i=nginx,linux&theme=dark" alt="Skills and Tech" />
 </div>
 <br/>
 
