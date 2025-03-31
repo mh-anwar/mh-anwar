@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Anwar</h1>
 <h3 align="center">I'm studying Computer Science at UofT and building cool projects.</h3>
 
-- 🔭 Right now, I’m working on [my personal terminal](https://anwar.app) and [dashboard](https://github.com/mh-anwar/dashboard)
-
-- 🌱 I'm currently learning and using **OpenCV + YOLO**
+- 🌱 I'm currently learning and using **C**
 - 🔥 My current favorite tech stack is: **Next.js + MongoDB** and my favorite tool is **Selenium**
 
 - 👨‍💻 Some of my favourite projects are on [my website](https://mohammadanwar.dev) and hackathon projects on [Devpost](https://devpost.com/mh-anwar)
